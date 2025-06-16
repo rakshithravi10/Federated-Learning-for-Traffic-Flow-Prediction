@@ -14,7 +14,7 @@ The paper discusses FL architectures, traffic modeling challenges, key algorithm
 
 ## 🎤 Presentation Slides
 
-📽️ [Slides (PPTX)](https://github.com/rakshithravi10/Federated-Learning-for-Traffic-Flow-Prediction/raw/main/presentation/RakshithRavi_Federated%20Learning%20for%20Traffic_Flow_Prediction_Slides.pptx)
+📽️ [Slides (PPTX)](presentation/RakshithRavi_Federated Learning for Traffic Flow Prediction ppt.pdf)
 
 
 
@@ -52,4 +52,4 @@ Technische Hochschule Ingolstadt, Germany
 
 ---
 
-> _“Federated learning in traffic systems is not just about better predictions—it's about doing it without sacrificing data privacy.”_
+> _“Federated learning in traffic systems is not just about better predictions, it's about doing it without sacrificing data privacy.”_
