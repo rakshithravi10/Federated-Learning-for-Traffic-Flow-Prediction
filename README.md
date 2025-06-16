@@ -36,7 +36,7 @@ Alternatively, upload `FL_Traffic_Paper_References.zip` in the `references/` fol
 - Federated Learning Architectures  
 - Centralized vs Decentralized ML  
 - Privacy and Data Silos in Mobility Systems  
-- FedAvg, FedSGD, FLAST-GCN  
+- FedAvg, FedSGD, FLAST-GCN, BFRT, PLFL, FedTPS 
 - Applications to ITS (Intelligent Transportation Systems)
 
 ---
