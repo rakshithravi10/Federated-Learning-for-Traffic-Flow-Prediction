@@ -14,7 +14,8 @@ The paper discusses FL architectures, traffic modeling challenges, key algorithm
 
 ## 🎤 Presentation Slides
 
-- 📽️ [Download Slides (PPTX)](presentation/RakshithRavi_Federated_Learning_for_Traffic_Flow_Prediction_Slides.pptx)
+- 📽️ [Download Slides (PPTX)](presentation/RakshithRavi_Federated%20Learning%20for%20Traffic_Flow_Prediction_Slides.pptx)
+
 
 Summarizes the problem background, motivation, proposed solution, model architecture, and expected benefits of FL in smart city applications.
 
