@@ -6,7 +6,7 @@ This repository contains my review of research work and presentation slides from
 
 ## 📄 Research Paper - Review 
 
-- 📘 [Download Paper (PDF)](paper/Rakshith_Ravi_Federated_Learning_for_Traffic_Flow_Prediction.pdf)
+- 📘 [Paper (PDF)](paper/Rakshith_Ravi_Federated_Learning_for_Traffic_Flow_Prediction.pdf)
 
 The paper discusses FL architectures, traffic modeling challenges, key algorithms (FedAvg, PLFL, FLAST-GCN, REFOL, FedTPS, BFRT), and experimental insights on decentralized model training.
 
@@ -14,7 +14,8 @@ The paper discusses FL architectures, traffic modeling challenges, key algorithm
 
 ## 🎤 Presentation Slides
 
-- 📽️ [Download Slides (PPTX)](presentation/RakshithRavi_Federated%20Learning%20for%20Traffic_Flow_Prediction_Slides.pptx)
+📽️ [Slides (PPTX)](https://github.com/rakshithravi10/Federated-Learning-for-Traffic-Flow-Prediction/raw/main/presentation/RakshithRavi_Federated%20Learning%20for%20Traffic_Flow_Prediction_Slides.pptx)
+
 
 
 Summarizes the problem background, motivation, proposed solution, model architecture, and expected benefits of FL in smart city applications.
